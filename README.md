@@ -125,21 +125,38 @@ This project is for educational and demonstration purposes.
 
 ---
 
-## 🖼️ Screenshots
-
-### 🏠 Home Page
-![Home Page](screenshots/HomePage1.png)
-
-### 🔐 Login Page
-![Login Page](screenshots/loginpage.png)
-
-### 🛒 Product Page
-![Product Page](screenshots/productpage.png)
-
-### 🧾 Cart Page
-![Cart Page](screenshots/cartpage.png)
-
 
 ## 👨‍💻 Author
 
 Designed and developed by Dulshan Rajeewa
+
+---
+
+## 🖼️ Screenshots
+
+### 🏠 Home Page
+![Home Page 1](screenshots/HomePage1.png)
+![Home Page 2](screenshots/HomePage2.png)
+
+### 📝 About Us Page
+![About Us Page](screenshots/AboutUsPage.png)
+
+### 🔐 Login Page
+![Login Page](screenshots/LoginPage.png)
+
+### 🧾 Register Page
+![Register Page](screenshots/RegisterPage.png)
+
+### 💍 Products Page
+![Products Page](screenshots/ProductsPage.png)
+
+### 🛒 Cart Page
+![Cart Page](screenshots/CartPage.png)
+
+### 💳 Payment Popup
+![Payment Popup](screenshots/PaymentPopUp.png)
+
+### 👤 User Profile Page
+![Profile Page 1](screenshots/ProfilePage1.png)
+![Profile Page 2](screenshots/ProfilePage2.png)
+
