@@ -125,6 +125,21 @@ This project is for educational and demonstration purposes.
 
 ---
 
+## 🖼️ Screenshots
+
+### 🏠 Home Page
+![Home Page](screenshots/HomePage1.png)
+
+### 🔐 Login Page
+![Login Page](screenshots/loginpage.png)
+
+### 🛒 Product Page
+![Product Page](screenshots/productpage.png)
+
+### 🧾 Cart Page
+![Cart Page](screenshots/cartpage.png)
+
+
 ## 👨‍💻 Author
 
 Designed and developed by Dulshan Rajeewa
