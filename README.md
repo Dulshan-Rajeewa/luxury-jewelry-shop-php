@@ -20,32 +20,32 @@ Luxurious Legacy Store is a modern, PHP-based e-commerce website that specialize
 ## 📂 Project Structure
 
 
-luxurious-legacy-store/
-├── css/
-│ ├── registerStyles.css
-│ ├── Styles.css
-│ ├── StylesAbout.css
-│ ├── StylesAccount.css
-│ ├── StylesCart.css
-│ └── StylesProducts.css
-├── js/
-│ ├── index.js
-│ └── payment.js
-├── img/
-│ └── // image files
-├── about_us.php
-├── add_to_cart.php
-├── cart.php
-├── config.php
-├── footer.php
-├── index.php
-├── login.php
-├── logout.php
-├── navbar.php
-├── products.php
-├── register.php
-├── user_account.php
-└── luxurious_legacy_store.sql
+luxurious_legacy_store.sql  
+luxurious-legacy-store/  
+├── css/  
+│ ├── registerStyles.css  
+│ ├── Styles.css  
+│ ├── StylesAbout.css  
+│ ├── StylesAccount.css  
+│ ├── StylesCart.css  
+│ └── StylesProducts.css  
+├── js/  
+│ ├── index.js  
+│ └── payment.js  
+├── img/  
+│ └── // image files  
+├── about_us.php  
+├── add_to_cart.php  
+├── cart.php  
+├── config.php  
+├── footer.php  
+├── index.php  
+├── login.php  
+├── logout.php  
+├── navbar.php  
+├── products.php  
+├── register.php  
+└── user_account.php  
 
 
 ---
