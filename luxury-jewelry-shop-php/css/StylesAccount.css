@@ -1,0 +1,79 @@
+body {
+    font-family: "Cinzel", "Playfair Display", serif;
+    background-color: #121212;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    background-color: gold;
+    padding: 15px;
+    text-align: center;
+}
+
+.account-container {
+    max-width: 600px;
+    margin: 30px auto;
+    background-color: #1e1e1e;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(255, 215, 0, 0.3);
+    text-align: center;
+}
+
+h1, h2 {
+    color: gold;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
+
+label {
+    font-weight: bold;
+    margin: 10px 0 5px;
+}
+
+input {
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    margin-bottom: 10px;
+}
+
+button {
+    background-color: gold;
+    color: black;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+button:hover {
+    background-color: #ffcc00;
+}
+
+.message {
+    color: lightgreen;
+    font-weight: bold;
+}
+
+table {
+    width: 100%;
+    margin-top: 20px;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 10px;
+    border-bottom: 1px solid gold;
+}
+
+.delete-btn {
+    background-color: red;
+    color: white;
+}
